@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1606063283 source:c:\users\tenso\desktop\Новая папка\kraken2\kraken2\kraken2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1608043022 source:c:\users\tenso\downloads\task8popol2-main\main.c
+	<stdio.h>
+	<stdlib.h>
+
